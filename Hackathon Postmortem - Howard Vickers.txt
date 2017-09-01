@@ -1,0 +1,21 @@
+Hackathon Postmortem - Howard Vickers
+
+Overall the project was certainly a success: the project was completed ahead of deadline and achieved the overall objectives.  
+
+The project allowed all the team members to revise, review and practice the skills and topics covered in the bootcamp to date.  We decided to cover as many technologies as possible, including:
+* jQuery 
+* Node and Express
+* Mongo
+* Mongoose
+* Vue
+* Bootstrap
+
+However, we decided against using an API as it was likely that this could require some considerable time spent to ensure it worked.  
+
+While we worked hard to solve issues as a group, we clearly benefited from assistance from the instructor and TAs on a frequent basis.  This ‘environmental factor’ was key in enabling our success.  There were certainly constant challenges to solve, and this would better describe the situation rather than “failures”.  
+
+Where we did have difficulty was with trying to break out into smaller groups or as individuals.  We were unsure of the technologies, and so we needed each other’s assistance on a constant basis.  We were also eager to get hands-on experience with using each technology, rather than leaving it to other team members to produce a finished component.  It was also not so intuitive for us to know how each technology would connect with other technologies (eg the database to the server).  Again, we preferred to work as a group at each stage.
+
+This lack of breaking out into groups, necessarily led to us being slower.  However, given the context of learning (rather than paid employment), the slowness was necessary to allow us to take the time to learn more deeply.  
+
+This project was key in solidifying my knowledge and skills learned throughout this bootcamp.  Mongo, Mongoose and server setup have become considerably clearer for me.  Bootstrap has become somewhat clearer, although we did not spend considerable time on the look-n-feel of the app.  My knowledge of Vue has certainly improved, although our use of Vue was not as deep as it could have been.  Naturally, the use of an API still seem a little fuzzy, although I would like to include this in the final project to address this issue.  I am also interested in using a Google/Facebook login in the final project, as we decided to set this aside in the hackathon project. 
